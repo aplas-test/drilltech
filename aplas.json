@@ -1,20 +1,24 @@
 {
-  "id": "drilltech",
-  "name": "DrillTech",
-  "categoryId": "billing",
-  "description": "Quality-focused executive capacity",
-  "investment_24m": "504",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "75",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "12",
-  "deployment_date": "27/2/16",
-  "end_of_maintenance": "27/4/17",
-  "department": "Legal",
-  "status": "Decomissioned",
-  "end_of_life": "19/8/18",
-  "months_to_renew_support": "3",
-  "sme_email": "Liam.Estick@memento.net.au",
-  "investment_number": "417"
+  "applications": [
+    {
+      "id": "drilltech",
+      "name": "DrillTech",
+      "categoryId": "billing",
+      "description": "Quality-focused executive capacity",
+      "investment_24m": "504",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "75",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "12",
+      "deployment_date": "27/2/16",
+      "end_of_maintenance": "27/4/17",
+      "department": "Legal",
+      "status": "Decomissioned",
+      "end_of_life": "19/8/18",
+      "months_to_renew_support": "3",
+      "sme_email": "Liam.Estick@memento.net.au",
+      "investment_number": "417"
+    }
+  ]
 }
