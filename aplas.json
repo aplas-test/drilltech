@@ -18,7 +18,47 @@
       "end_of_life": "19/8/18",
       "months_to_renew_support": "3",
       "sme_email": "Liam.Estick@memento.net.au",
-      "investment_number": "417"
+      "investment_number": "417",
+      "integrations": [
+        {
+          "id": "int-405",
+          "name": "INT-405",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+          "sourceApplicationId": "drilltech",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "LEG",
+          "status_color": "#FFFF12",
+          "pattern": "File Delivery",
+          "golive_date": "29/9/13",
+          "sme_name": "Isacco Tucker",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Testing",
+          "sme_email": "itucker3@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "7/1/16"
+        },
+        {
+          "id": "int-394",
+          "name": "INT-394",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+          "sourceApplicationId": "drilltech",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "6/11/14",
+          "sme_name": "Isacco Tucker",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "itucker3@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "2/3/16"
+        }
+      ]
     }
   ]
 }
